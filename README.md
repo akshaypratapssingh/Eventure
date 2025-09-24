@@ -1,0 +1,2 @@
+# Eventure-
+Event Management Platform 
